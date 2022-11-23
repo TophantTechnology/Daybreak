@@ -44,6 +44,6 @@ https://daybreak.tophant.com/
 
 ## 在线文档
 
-https://daybrek.tophant.com/docs/
+https://daybreak.tophant.com/docs/
 
 
